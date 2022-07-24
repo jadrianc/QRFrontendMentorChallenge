@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-  
+
 ### Screenshot
 
 ![](./images/Screenshot.png)
@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jadrianc/QRFrontendMentorChallenge)
-- Live Site URL: [Add live site URL here](https://jadrianc.github.io/QRFrontendMentorChallenge/)
+- Solution URL: [Github](https://github.com/jadrianc/QRFrontendMentorChallenge)
+- Live Site URL: [See page](https://jadrianc.github.io/QRFrontendMentorChallenge/)
 
 ## My process
 
